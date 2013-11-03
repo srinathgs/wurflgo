@@ -46,4 +46,6 @@ then build your project with the following command
 It takes a bit of time and it generates the binary
 
 
+Contributions are welcome!
+
 
