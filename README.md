@@ -1,7 +1,8 @@
 What it is
 ====
 
-  The user agent strings are matched against the devices in WURFL Database. 
+  A lirary written in Go for matching user agent strings against the devices in WURFL Database. 
+  Documentation on [godoc.org](http://godoc.org/github.com/srinathgs/wurflgo)
 
 Installation
 ====
