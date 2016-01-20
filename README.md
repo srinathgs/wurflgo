@@ -24,7 +24,7 @@ Run the parser with the following command.
 
 `./parser -groups product_info,xhtml_ui -input <path to input directory>/wurfl.xml -output <output directory>/wurfl.go`
 
-You can specify all the groups you need separated by commas to the groups flag(Check `wurfl.xml` for the available groups). No need of spaces in between thm.
+You can specify all the groups you need separated by commas to the groups flag(Check `wurfl.xml` for the available groups). No need of spaces in between them.
 
 Then you are set to match the devices.
 
