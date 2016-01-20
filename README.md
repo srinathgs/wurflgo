@@ -44,7 +44,7 @@ then build your project with the following command
 
 `go build wurfl.go <your file>.go`
 
-It takes a bit of time and it generates the binary. wurfl.go file generated has a lot of lines of code depending upon what you have selected in groups. So, `go build` needs a lot of memory(only during build time) to generate the binaries. 
+It takes a bit of time and it generates the binary. wurfl.go file generated has a lot of lines of code depending upon what you have selected in groups. So, `go build` needs a lot of memory (only during build time) to generate the binaries. If the machine on which `go build` was run did not have enough memory, `go build` will hang.
 
 
 Contributions are welcome!
