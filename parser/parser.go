@@ -1,4 +1,4 @@
-//./parser -groups product_info,xhtml_ui -input ~/101010/wurfl.xml -output ~/101010/wurfl.go
+//./parser -groups product_info,xhtml_ui -input <path to>/wurfl.xml -output <path to>/wurfl.go
 
 package main 
 
