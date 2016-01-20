@@ -44,7 +44,7 @@ then build your project with the following command
 
 `go build wurfl.go <your file>.go`
 
-It takes a bit of time and it generates the binary
+It takes a bit of time and it generates the binary. wurfl.go file generated has a lot of lines of code depending upon what you have selected in groups. So, `go build` needs a lot of memory to generate the binaries.
 
 
 Contributions are welcome!
