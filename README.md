@@ -1,7 +1,7 @@
 What it is
 ====
 
-  A lirary written in Go for matching user agent strings against the devices in WURFL Database. 
+  A library written in Go for matching user agent strings against the devices in WURFL Database. 
   Documentation on [godoc.org](http://godoc.org/github.com/srinathgs/wurflgo)
 
 Installation
